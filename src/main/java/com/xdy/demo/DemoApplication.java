@@ -15,7 +15,7 @@ public class DemoApplication {
 
 	@RequestMapping("/")
 	public String test() {
-		return "测试8088--修改";
+		return "测试8088--重启";
 	}
     @RequestMapping("/test")
     public String loginOut() {
